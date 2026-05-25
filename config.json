@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdender",
+        "uuid": 506474,
+        "checksum": "reoy7s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
